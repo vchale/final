@@ -401,6 +401,10 @@ footer {
     color: #fff;
 }
 
+footer, footer * {
+    color: #ffffff; 
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
